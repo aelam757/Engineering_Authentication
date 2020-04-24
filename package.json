@@ -1,0 +1,24 @@
+{
+  "name": "engineering_authentication",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aelam757/Engineering_Authentication.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aelam757/Engineering_Authentication/issues"
+  },
+  "homepage": "https://github.com/aelam757/Engineering_Authentication#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-sessions": "^1.0.6"
+  }
+}
